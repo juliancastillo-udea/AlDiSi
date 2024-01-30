@@ -50,3 +50,36 @@
 
 # **AlDiSi - Moniorias en Algoritmos, Dinámica de Sistemas y Simulación**
 
+# **Monitorias en los cursos**
+*   ## **Algoritmia y Programación**
+*   ## **Dinámica de Sistemas**
+*   ## **Simulación**
+*   ## **Programación y Algoritmia Para Posgrados**
+
+
+# **Contenido**
+*   ## **Grabaciones de ejercicios de contenidos de clase**
+*   ## **Solución de parciales**
+*   ## **Clases en vivo**
+*   ## **Enlaces de interés y otros contenidos relevantes**
+
+# **Docentes**
+*   ## **Laura Milena Cárdenas Ardila**
+>*   ### <a href="mailto:lauram.cardenas@udea.edu.co"> ✉ lauram.cardenas@udea.edu.co</a>
+*   ## **Yony Fernando Ceballos**
+>*   ### <a href="mailto:yony.ceballos@udea.edu.co"> ✉ yony.ceballos@udea.edu.co</a>
+*   ## **Julián Andrés Castillo Grisales**
+>*   ### <a href="mailto:jandres.castillo@udea.edu.co"> ✉ jandres.castillo@udea.edu.co</a>
+
+# **Monitores de los cursos**
+## **Algoritmia y Programación**
+*   ### **Valeria Gonzalez Gonzalez**
+>*   #### <a href="mailto:valeria.gonzalezg1@udea.edu.co"> ✉ valeria.gonzalezg1@udea.edu.co</a>
+## **Dinámica de Sistemas**
+*   ## **Sara Melisa Garcia Cano**
+>*   ### <a href="mailto:sara.garciac1@udea.edu.coo"> ✉ sara.garciac1@udea.edu.co</a>
+## **Simulación**
+*   ## **Por Definir**
+>*   ### <a href="mailto:jandres.castillo@udea.edu.co"> ✉ Por Definir</a>
+
+
