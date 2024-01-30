@@ -18,7 +18,7 @@
             </td>
         </tr>
         <tr>
-            <td> align="center">
+            <td align="center">
                 <img align="center" alt="I&S" height="90px" src="https://raw.githubusercontent.com/juliancastillo-udea/AlDiSi/main/images/Logo%20AlDiSi_Horizontal%20UdeA%20II.png" hspace="10px" vspace="0px">
             </td>
         </tr>
