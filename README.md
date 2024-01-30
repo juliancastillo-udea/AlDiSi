@@ -5,7 +5,7 @@
             <td rowspan="3">
                 <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
             </td>
-            <td>
+            <td align="center">
                 <h1><b>AlDiSi<br>Monitorias en Algoritmos, Dinámica y Simulación</b></h1>
             </td>
             <td rowspan="3">
@@ -13,12 +13,12 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <h1><b>Bienvenidos</b></h1>
             </td>
         </tr>
         <tr>
-            <td>
+            <td> align="center">
                 <img align="center" alt="I&S" height="90px" src="https://raw.githubusercontent.com/juliancastillo-udea/AlDiSi/main/images/Logo%20AlDiSi_Horizontal%20UdeA%20II.png" hspace="10px" vspace="0px">
             </td>
         </tr>
