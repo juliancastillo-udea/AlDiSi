@@ -6,7 +6,7 @@
                 <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
             </td>
             <td>
-                <h1><b>AlDiSi - Monitorias en Algoritmos, Dinámica y Simulación</b></h1>
+                <h1><b>AlDiSi<br>Monitorias en Algoritmos, Dinámica y Simulación</b></h1>
             </td>
             <td rowspan="3">
                 <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
