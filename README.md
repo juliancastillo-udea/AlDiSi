@@ -49,3 +49,4 @@
 **El presente recurso académico hace parte del grupo de investigación [Ingeniería&Sociedad](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ingenieria-tecnologia/ingenieria-sociedad/integrantes/!ut/p/z1/jZDLbsIwEEW_hS_w2JMHWbqOE0wcxw6mUG9QVigSBBaI729UISRCS5ndSOee0VwSyJaEobv2--7Sn4buMO5fIdkZF0vKBOjS2QIcb_lKe28EMrL5AeaZYJRHoKGiMXAnrfGNsPmSkfBOHv4YDu_lXwDhtX5DwuMJKNrxA13VyNoEvU6nQJn6DLi0kEboDP-kU6ABNxpqExUfpeIVi2_AvaQmb0YgyeXCU0RB2ZNBoQSXmdhiqViU4tTwS83_PXo-rtdb6FWv9rNv4u7n-A!!/?1dmy&urile=wcm%3apath%3a%2FPortalUdeA%2FasPortalUdeA%2FasHomeUdeA%2FInvestigaci%2521c3%2521b3n%2FGrupos%2Bde%2Binvestigaci%2521c3%2521b3n%2FIngenier%2521c3%2521ada%2By%2Btecnolog%2521c3%2521ada%2FIngenier%2521c3%2521ada%2By%2Bsociedad) de la Ingeniería Industrial de la Universidad de Antioquia.**
 
 # **AlDiSi - Moniorias en Algoritmos, Dinámica de Sistemas y Simulación**
+
