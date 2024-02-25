@@ -13,8 +13,8 @@
             <br>
             <p>Monitorias para las asignaturas de:<br>
             <h3>Algoritmia y Programación, Dinámica de Sistemas y Simulación<br></h3></p><br>
-            <h1>Por: Julián Andrés Castillo G.</h1>
-            <h2><a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a></h2>
+            <h1>Docentes y Monitores de los cursos de AlDiSi</h1>
+            <h2>Algoritmia y Programación, Dinámica de Sistemas y Simulación</h2>
         </td>
         <td>
             <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="right" hspace="0px" vspace="0px">
