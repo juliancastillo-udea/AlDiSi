@@ -17,10 +17,10 @@
             <h2>Algoritmia y Programación, Dinámica de Sistemas y Simulación</h2>
         </td>
         <td>
-            <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="right" hspace="0px" vspace="0px">
-            <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png" align="right" hspace="0px" vspace="0px">
-            <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png" align="right" hspace="0px" vspace="0px">
-            <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png" align="right" hspace="0px" vspace="0px">
+            <img alt="CC" height="50px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="right" hspace="0px" vspace="0px">
+            <img alt="Attribution" height="50px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png" align="right" hspace="0px" vspace="0px">
+            <img alt="NC" height="50px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png" align="right" hspace="0px" vspace="0px">
+            <img alt="SA" height="50px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png" align="right" hspace="0px" vspace="0px">
         </td>
     </tr>
     </tbody>
