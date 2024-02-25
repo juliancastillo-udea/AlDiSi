@@ -33,6 +33,6 @@
 *   **Ejercicios Secuenciales**
 *   **Ejercicios de Estructuras Selectivas**
 *   **Ejercicios de Estructuras Repetitivas**
-*   **Ejercicios de Estructuras Funciones**
-*   **Ejercicios de Estructuras Uso de Librerias**
+*   **Ejercicios de Funciones**
+*   **Ejercicios de Uso de Librerias**
 *   **Otros Más**
