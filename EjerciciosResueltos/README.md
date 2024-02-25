@@ -11,10 +11,8 @@
     <tr>
         <td>
             <br>
-            <p>Monitorias para las asignaturas de:<br>
-            <h3>Algoritmia y Programación, Dinámica de Sistemas y Simulación<br></h3></p><br>
-            <h1>Docentes y Monitores de los cursos de AlDiSi</h1>
-            <h2>Algoritmia y Programación, Dinámica de Sistemas y Simulación</h2>
+            <h2>Docentes y Monitores de los cursos de AlDiSi</h2>
+            <h3>Algoritmia y Programación, Dinámica de Sistemas y Simulación</h3>
         </td>
         <td>
             <img alt="CC" height="50px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="right" hspace="0px" vspace="0px">
