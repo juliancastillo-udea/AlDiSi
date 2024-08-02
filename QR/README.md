@@ -1,0 +1,1 @@
+# Generar códigos QR
