@@ -73,13 +73,13 @@
 
 # **Monitores de los cursos**
 ## **Algoritmia y Programación**
-*   ### **Valeria Gonzalez Gonzalez**
->*   #### <a href="mailto:valeria.gonzalezg1@udea.edu.co"> ✉ valeria.gonzalezg1@udea.edu.co</a>
+*   ### **Juan David Zabala Chaparro**
+>*   #### <a href="mailto:juan.zabala2@udea.edu.co"> ✉ juan.zabala2@udea.edu.co</a>
 ## **Dinámica de Sistemas**
 *   ## **Sara Melisa Garcia Cano**
 >*   ### <a href="mailto:sara.garciac1@udea.edu.coo"> ✉ sara.garciac1@udea.edu.co</a>
 ## **Simulación**
-*   ## **Por Definir**
->*   ### <a href="mailto:jandres.castillo@udea.edu.co"> ✉ Por Definir</a>
+*   ### **Valeria Gonzalez Gonzalez**
+>*   #### <a href="mailto:valeria.gonzalezg1@udea.edu.co"> ✉ valeria.gonzalezg1@udea.edu.co</a>
 
 
