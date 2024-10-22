@@ -3,7 +3,7 @@
   <tr>
     <th><img alt="UdeA" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/archive/f/fb/20161010213812%21Escudo-UdeA.svg" align="left" hspace="10px" vspace="0px"></th>
     <th><h1> <b> Implementación del algoritmo SHA-1 "HASH Function" </b> </h1></th>
-    <th><img alt="CC" height="150px" src="https://www.udea.edu.co/wps/wcm/connect/udea/9c504313-836e-4f26-822d-62f0a58dd49c/Participa+en+nuestra+jornada+%282%29.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_L8L8H8C0LODDC0A6SSS2AD2GO4-9c504313-836e-4f26-822d-62f0a58dd49c-ovyUGCC" align="right" hspace="0px" vspace="0px"></th>
+    <th><img alt="CC" height="80px" src="https://raw.githubusercontent.com/juliancastillo-udea/AlDiSi/refs/heads/main/Git/images/IyS.png" align="right" hspace="0px" vspace="0px"></th>
   </tr>
 </thead>
 <hr size=10 noshade color="green">
