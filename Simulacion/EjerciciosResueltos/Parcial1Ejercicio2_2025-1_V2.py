@@ -38,7 +38,7 @@ def TiendaManimal():
                         elif p > 0.6:
                             venta = rnd.randint(20000,55000)
                             compras[llave].append(venta)
-                        elif p > 0.9:
+                        elif p > 0.5:
                             venta = rnd.randint(25000,175000)
                             compras[llave].append(venta)
                             venta = rnd.randint(20000,55000)
@@ -179,4 +179,5 @@ plt.axvline(convergencia, color='peru', alpha=0.5,  linewidth=3 ,label=f'Convege
 plt.grid('on')
 plt.title(f'Convergencia del promedio\nEl modelo converge a: {vMean[-1]:,.0f}, para {replics:,} replicas')
 plt.legend()
+
 plt.show()
