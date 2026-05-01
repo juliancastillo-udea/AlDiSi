@@ -71,15 +71,3 @@
 *   ## **Julián Andrés Castillo Grisales**
 >*   ### <a href="mailto:jandres.castillo@udea.edu.co"> ✉ jandres.castillo@udea.edu.co</a>
 
-# **Monitores de los cursos**
-## **Algoritmia y Programación**
-*   ### **Juan David Zabala Chaparro**
->*   #### <a href="mailto:juan.zabala2@udea.edu.co"> ✉ juan.zabala2@udea.edu.co</a>
-## **Dinámica de Sistemas**
-*   ## **Sara Melisa Garcia Cano**
->*   ### <a href="mailto:sara.garciac1@udea.edu.coo"> ✉ sara.garciac1@udea.edu.co</a>
-## **Simulación**
-*   ### **Valeria Gonzalez Gonzalez**
->*   #### <a href="mailto:valeria.gonzalezg1@udea.edu.co"> ✉ valeria.gonzalezg1@udea.edu.co</a>
-
-
